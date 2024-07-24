@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Crypto Currency price Telegram Bot<br>🌱 I’m currently learning JavaScript, NodeJS<br>
+🔭 I’m currently working on JavaScript projects and learning its frameworks<br>🌱 I’m currently learning JavaScript, NodeJS<br>
 
 
 ## 🌐 Socials:
