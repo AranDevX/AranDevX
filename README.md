@@ -56,6 +56,6 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=arandevx)
+![](https://komarev.com/ghpvc/?username=arandevx-arandevx&base=1300&style=for-the-badge)
 
 ###
