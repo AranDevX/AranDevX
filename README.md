@@ -59,7 +59,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AranDevX/count.svg?"  />
+  <img src="![](https://komarev.com/ghpvc/?username=AranDevX&abbreviated=true)"  />
 </div>
 
 ###
