@@ -56,6 +56,6 @@
 
 ###
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AranDevX
+![](https://komarev.com/ghpvc/?username=arandevx)
 
 ###
