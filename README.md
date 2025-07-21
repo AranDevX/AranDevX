@@ -56,10 +56,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=AranDevX&abbreviated=true)"  />
-</div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AranDevX
 
 ###
